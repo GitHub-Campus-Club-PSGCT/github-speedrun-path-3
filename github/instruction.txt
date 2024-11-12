@@ -1,0 +1,12 @@
+1.There are folders with the names of Hollywood movie,festivals,capitals,flowers,birds,fruits,
+wonders,fast food,animals,painters,musicians,countries,tamil movie,colours,english songs etc
+such that the names are jumbled with capital and small letters alternatively.
+
+2.Unscramble it to get the correct name according to the given general path.
+ 
+3.there are many dead ends.Both destination and dead ends are text files.
+
+4.follow this path to reach the destination.
+
+general path....:) 
+Hollywood movie\festivals\wonders\fast food\countries\tamil movie\colours\english songs.
